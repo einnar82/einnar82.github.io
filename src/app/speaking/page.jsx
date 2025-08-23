@@ -33,7 +33,7 @@ export default function Speaking() {
   return (
     <SimpleLayout
       title="I teach what I build."
-      intro="I’m frequently invited by universities, tech communities, government offices, and private companies to run talks and hands-on sessions—paid or pro bono—on data engineering (ETL, search, Postgres at scale), scalable APIs, DevOps in constrained/air-gapped environments, observability, and engineering leadership; Here are some of my speaking engagements."
+      intro="I’m frequently invited by universities, tech communities, government offices, and private companies to run talks and hands-on sessions—paid or pro bono—on data engineering (ETL, search, Postgres at scale), software development, scalable APIs, DevOps in constrained/air-gapped environments, observability, and engineering leadership; Here are some of my speaking engagements."
     >
       <div className="space-y-20">
         <SpeakingSection title="Trainings">
