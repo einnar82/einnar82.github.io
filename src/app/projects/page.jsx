@@ -66,7 +66,7 @@ export default function Projects() {
   return (
     <SimpleLayout
       title="Platforms I’ve built to make complex things simple."
-      intro="A curated set of projects—remittances, 3D assets, event-ops, student media, and balikbayan logistics—where I pair product sensibilities with data engineering: ETL pipelines, search, Postgres at scale, and actionable analytics. Feel free to explore."
+      intro="A curated set of projects—remittances, 3D assets, event-ops, student media, and balikbayan logistics—where I pair product sensibilities with data engineering: ETL pipelines, search, Postgres at scale, and actionable analytics. Feel free to explore some of the projects that i've worked on."
     >
       <ul
         role="list"
