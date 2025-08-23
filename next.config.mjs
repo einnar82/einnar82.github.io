@@ -8,9 +8,6 @@ const nextConfig = {
   outputFileTracingIncludes: {
     '/articles/*': ['./src/app/articles/**/*.mdx'],
   },
-  output: 'export',          // write static site to ./out
-  trailingSlash: true,       // deep links work as /path/ on GH Pages
-  images: { unoptimized: true }, // next/image on static hosts
 }
 
 const withMDX = nextMDX({
