@@ -8,6 +8,11 @@ const nextConfig = {
   outputFileTracingIncludes: {
     '/articles/*': ['./src/app/articles/**/*.mdx'],
   },
+  output: 'export',
+  trailingSlash: true,
+  images: {
+    unoptimized: true,
+  },
 }
 
 const withMDX = nextMDX({
