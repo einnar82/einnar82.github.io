@@ -21,11 +21,11 @@ export default async function Home() {
     <>
       <Container className="mt-9">
         <div className="max-w-2xl">
-          <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            Product & software architecture, Founder-operator & team leadership, and R&D / frontier-tech prototyping.
+           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
+            Hands-on Head of Engineering, DevSecOps leader, and software architect for secure, scalable platforms.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-           Hi, I’m Rannie, a product- and UX-led software designer, founder/CEO, and platform engineer who turns complex domains into intuitive consumer experiences—leading 0→1→N teams, shaping strategy and roadmaps, shipping performant web/mobile platforms and APIs, and driving adoption through accessible, privacy-by-design tech and community partnerships.
+            Hi, I’m Rannie—a hands-on engineering leader who combines team leadership with practical architecture and coding involvement when needed. I design and deliver software and data platforms for regulated environments, with a focus on platform reliability, DevSecOps, cloud operations, and audit-ready delivery across modern CI/CD pipelines.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink 
