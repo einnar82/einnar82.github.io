@@ -59,14 +59,14 @@ function LinkIcon(props) {
 
 export const metadata = {
   title: 'Projects',
-  description: 'Platforms I’ve built to make complex things simple.',
+  description: 'Platforms I’ve helped build for secure, scalable, and high-stakes operations.',
 }
 
 export default function Projects() {
   return (
     <SimpleLayout
-      title="Platforms I’ve built to make complex things simple."
-      intro="A curated set of projects—remittances, 3D assets, event-ops, student media, and balikbayan logistics—where I pair product sensibilities with data engineering: ETL pipelines, search, Postgres at scale, and actionable analytics. Feel free to explore some of the projects that i've worked on."
+      title="Platforms I’ve helped build for secure, scalable, and high-stakes operations."
+      intro="A curated set of projects across financial services, remittances, data platforms, integrations, and operational systems—where I combine hands-on engineering leadership with software architecture, DevSecOps, and platform reliability. My work spans secure delivery, cloud operations, ETL/data pipelines, system integration, and building audit-ready platforms in regulated environments."
     >
       <ul
         role="list"
