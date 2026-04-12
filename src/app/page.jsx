@@ -29,7 +29,7 @@ export default async function Home() {
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink 
-              href="https://x.com/einnar82"
+              href="https://x.com/rannieollit"
               aria-label="Follow on X"
               icon={XIcon} 
               target="_blank"/>
