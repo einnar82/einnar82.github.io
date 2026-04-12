@@ -34,7 +34,7 @@ export default async function Home() {
               icon={XIcon} 
               target="_blank"/>
             <SocialLink
-              href="https://github.com/einnar82"
+              href="https://github.com/rannieo"
               target="_blank"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
