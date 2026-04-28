@@ -21,15 +21,15 @@ export default function PrivacyPolicy() {
 
       <Prose className="mt-12 max-w-3xl">
         <p>
-          This Privacy Policy describes how the Service Provider ("I", "me", or "the
-          Service Provider"), operating through this website or similar platforms and channels,
+          This Privacy Policy describes how the Service Provider (&quot;I&quot;, &quot;me&quot;, or &quot;the
+          Service Provider&quot;), operating through this website or similar platforms and channels,
           handles personal and business
           information in connection with the automation, software development, and technology
           services I provide to clients and partners.
         </p>
         <p>
           <strong>Core commitment:</strong> I do not collect, store, or retain the personal data of
-          my clients' customers or end-users. My role in any client engagement is that of a
+          my clients&apos; customers or end-users. My role in any client engagement is that of a
           technical service provider — I build and operate systems on behalf of my clients, but the
           personal data those systems handle belongs to the client and their users. I access
           it only to the extent required to deliver the agreed service, never to profile, analyze,
@@ -65,7 +65,7 @@ export default function PrivacyPolicy() {
           It also does not apply to personal data held by my clients about their own customers.
           Clients are the <strong>Personal Information Controllers</strong> for that data under RA
           10173. I act only as a <strong>Personal Information Processor</strong> — building and
-          operating the technical systems that handle it, under the client's instruction.
+          operating the technical systems that handle it, under the client&apos;s instruction.
         </p>
 
         <hr />
@@ -84,8 +84,8 @@ export default function PrivacyPolicy() {
 
         <h3>As a Personal Information Processor</h3>
         <p>
-          When I build or operate systems that process the personal data of a client's customers or
-          end-users, I act as a <strong>processor</strong> under the client's instruction. In this
+          When I build or operate systems that process the personal data of a client&apos;s customers or
+          end-users, I act as a <strong>processor</strong> under the client&apos;s instruction. In this
           capacity:
         </p>
         <ul>
@@ -142,7 +142,7 @@ export default function PrivacyPolicy() {
           </li>
         </ul>
         <p>
-          I do <strong>not</strong> collect personal data about my clients' customers, end-users,
+          I do <strong>not</strong> collect personal data about my clients&apos; customers, end-users,
           or employees beyond what is incidentally encountered during system access for delivery
           purposes — and even then, I do not record, copy, or retain it.
         </p>
@@ -232,7 +232,7 @@ export default function PrivacyPolicy() {
           <li>
             When building automation or integration systems, I design pipelines to process and
             pass through data without persisting it in intermediate stores I own or control, unless
-            the client's architecture explicitly requires it and it is covered by a written agreement
+            the client&apos;s architecture explicitly requires it and it is covered by a written agreement
           </li>
           <li>
             If access to a production environment containing personal data is required for
@@ -277,12 +277,12 @@ export default function PrivacyPolicy() {
           </li>
         </ul>
 
-        <h3>End-user and customer personal data (client's data subjects)</h3>
+        <h3>End-user and customer personal data (client&apos;s data subjects)</h3>
         <ul>
           <li>
-            <strong>I do not store this data.</strong> Personal data belonging to a client's
+            <strong>I do not store this data.</strong> Personal data belonging to a client&apos;s
             customers or end-users is processed only in transit — it flows through systems I build
-            or operate and is handled per the client's instructions, but it is not copied, logged,
+            or operate and is handled per the client&apos;s instructions, but it is not copied, logged,
             or persisted in any system I own or control
           </li>
           <li>
@@ -459,7 +459,7 @@ export default function PrivacyPolicy() {
         </ul>
         <p>
           If you are a customer or end-user of one of my clients and wish to exercise your rights
-          regarding data that client's system holds about you, please contact that client directly —
+          regarding data that client&apos;s system holds about you, please contact that client directly —
           they are the controller of your data, and your rights requests should be directed to them.
         </p>
         <p>
@@ -489,7 +489,7 @@ export default function PrivacyPolicy() {
           that maintain internationally recognized security standards (e.g., ISO 27001, SOC 2).
         </p>
         <p>
-          Where cross-border data transfer is part of a client's system architecture, I disclose
+          Where cross-border data transfer is part of a client&apos;s system architecture, I disclose
           this clearly during scoping. Clients who operate under GDPR or other cross-border
           frameworks are advised to ensure appropriate transfer mechanisms (e.g., Standard
           Contractual Clauses) are in place at the controller level.
